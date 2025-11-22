@@ -8,12 +8,12 @@ This project demonstrates front-end development skills and restaurant UI design.
 Create a folder named screenshots/ and add images.
 Then reference them like this:
 
-![Home Page](screenshots/home.png)
-![Menu Page](screenshots/menu.png)
-![Cart Page](screenshots/cart.png)
-![contact us Page](screenshots/contactus.png)
-![Order History Page](screenshots/orderhistory.png)
-![Kitchen Page](screenshots/kitchen.png)
+![Home Page](restaurent_website/screenshots/home.png)
+![Menu Page](restaurent_website/screenshots/menu.png)
+![Cart Page](restaurent_website/screenshots/cart.png)
+![contact us Page](restaurent_website/screenshots/contact%20us.png)
+![Order History Page](restaurent_website/screenshots/order%20history.png)
+![Kitchen Page](restaurent_website/screenshots/kitchen.png)
 
 🚀 Features
 🍕 Menu page with food images & prices
